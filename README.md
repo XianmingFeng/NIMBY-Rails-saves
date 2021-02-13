@@ -7,9 +7,10 @@
 
 # 快速开始
 ## 存档
-将saves文件夹中的    移动至C:\Users\username\Saved Games\Weird and Wry\NIMBY Rails
+将saves文件夹中的'Guangshen.nimbyrails5'移动至'C:\Users\username\Saved Games\Weird and Wry\NIMBY Rails'文件夹内
 
 ## 列车
+
 
 ---
 
