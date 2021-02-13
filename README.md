@@ -1,10 +1,19 @@
 # NIMBY-Rails-saves
 
+# 概览
 在NIMBY Rails 中复原真实铁路，并建造规划中的铁路。
 
 存档运行于NIMBY Rails 1.1.20 / Jan 31 2021版本。
 
+# 快速开始
+## 存档
+将saves文件夹中的    移动至C:\Users\username\Saved Games\Weird and Wry\NIMBY Rails
+
+## 列车
+
 ---
+
+# 线路
 ## 广州
 ### 广州地铁
 广州地铁部分还原了已建成运营的中重型铁路线13条、胶轮系统线路1条，在建或规划中的中重型铁路线4条、延长线3条、站点1个：
