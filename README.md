@@ -7,7 +7,7 @@
 
 # 快速开始
 ## 存档
-将saves文件夹中的`Guangshen.nimbyrails5`移动至`C:\Users\username\Saved Games\Weird and Wry\NIMBY Rails`文件夹内
+将saves文件夹中的`China Rails.nimbyrails5`移动至`C:\Users\username\Saved Games\Weird and Wry\NIMBY Rails`文件夹内
 
 ## 列车
 ~~由于部分列车购买时游戏尚未支持在已创建的存档中添加MOD，因此存档中有部分列车无法通过在创意工坊中订阅列车获得。~~
