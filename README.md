@@ -14,8 +14,8 @@
 
 新版本游戏已支持在已创建的存档中添加MOD，请在Steam的创意工坊中订阅以下MOD合集：
 
-* China Metro&EMUs 中国地铁及动车组列车
-* 中国车辆
+* [China Metro&EMUs 中国地铁及动车组列车](https://steamcommunity.com/sharedfiles/filedetails/?id=2383638584)
+* [中国车辆](https://steamcommunity.com/sharedfiles/filedetails/?id=2382694658)
 
 ---
 
