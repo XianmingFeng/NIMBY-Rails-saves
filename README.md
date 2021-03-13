@@ -5,9 +5,13 @@
 
 存档运行于NIMBY Rails 1.1.39 版本。
 
+* [【广州地铁】【深圳地铁】NIMBY Rails 画广州地铁和深圳地铁](https://www.bilibili.com/video/BV1Wr4y1P7PD/) 
+* [【NIMBY Rails】广东部分城际线、高速线](https://www.bilibili.com/video/BV1TU4y1s7zq/)
+
 # 快速开始
 ## 存档
 将saves文件夹中的`China Rails.nimbyrails5`移动至`C:\Users\username\Saved Games\Weird and Wry\NIMBY Rails`文件夹内
+
 
 ## 列车
 ~~由于部分列车购买时游戏尚未支持在已创建的存档中添加MOD，因此存档中有部分列车无法通过在创意工坊中订阅列车获得。~~
