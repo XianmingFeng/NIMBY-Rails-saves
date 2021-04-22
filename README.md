@@ -7,6 +7,8 @@
 
 * [【广州地铁】【深圳地铁】NIMBY Rails 画广州地铁和深圳地铁](https://www.bilibili.com/video/BV1Wr4y1P7PD/) 
 * [【NIMBY Rails】广东部分城际线、高速线](https://www.bilibili.com/video/BV1TU4y1s7zq/)
+* [【上海地铁】NIMBY Rails 画上海地铁](https://www.bilibili.com/video/BV1LB4y1P7EB/)
+* [【杭州地铁】【NIMBY Rails】NIMBY Rails画杭州地铁](https://www.bilibili.com/video/BV1tf4y1s7dZ/)
 
 # 快速开始
 ## 存档
