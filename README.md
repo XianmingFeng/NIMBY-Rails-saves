@@ -3,7 +3,7 @@
 # 概览
 在NIMBY Rails 中复原真实铁路，并建造规划中的铁路。
 
-存档运行于NIMBY Rails 1.1.52 版本。
+存档运行于NIMBY Rails 1.1.72 版本。
 
 * [【广州地铁】【深圳地铁】NIMBY Rails 画广州地铁和深圳地铁](https://www.bilibili.com/video/BV1Wr4y1P7PD/) 
 * [【NIMBY Rails】广东部分城际线、高速线](https://www.bilibili.com/video/BV1TU4y1s7zq/)
